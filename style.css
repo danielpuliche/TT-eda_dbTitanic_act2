@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: #282c34;
+    color: rgba(255, 255, 255, 0.788);
+    padding: 1rem;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(173, 173, 173);
+}
+
+a {
+    color: aquamarine;
+}   
